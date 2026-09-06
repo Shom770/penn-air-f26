@@ -67,7 +67,10 @@ Output: `contoured_part_4.mp4`
 Each run overwrites the existing output file for that part.
 
 ## Videos
-Part 2: 
+Part 1:
+<img width="960" height="540" alt="contoured_pt_1" src="https://github.com/user-attachments/assets/bd8e30e7-0e7a-4fe4-95af-dbb3d2c0cde0" />
+
+Part 2: (click on the image to watch the video)
 <br><a href="http://www.youtube.com/watch?feature=player_embedded&v=Kc75BvfTFmw" target="_blank">
  <img src="http://img.youtube.com/vi/Kc75BvfTFmw/mqdefault.jpg" alt="Watch the video" width="360" height="180" border="10" />
 </a>
