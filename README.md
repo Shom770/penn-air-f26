@@ -68,7 +68,8 @@ Each run overwrites the existing output file for that part.
 
 ## Videos
 Part 1:
-<img width="960" height="540" alt="contoured_pt_1" src="https://github.com/user-attachments/assets/bd8e30e7-0e7a-4fe4-95af-dbb3d2c0cde0" />
+<br>
+<img width="360" height="180" alt="contoured_pt_1" src="https://github.com/user-attachments/assets/bd8e30e7-0e7a-4fe4-95af-dbb3d2c0cde0" />
 
 Part 2: (click on the image to watch the video)
 <br><a href="http://www.youtube.com/watch?feature=player_embedded&v=Kc75BvfTFmw" target="_blank">
